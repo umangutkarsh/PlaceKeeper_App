@@ -1,4 +1,4 @@
-# PlaceKeeper_App <img src="https://static-00.iconduck.com/assets.00/location-indicator-red-emoji-1330x2048-pfre7pru.png" height="35px" width = "28px"/>
+# PlaceKeeper_App <img src="https://static-00.iconduck.com/assets.00/location-indicator-red-emoji-1330x2048-pfre7pru.png" height="42px" width = "28px"/>
 
 [![Mongo Badge](http://img.shields.io/badge/Database%20-MongoDB-darkgreen?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 &emsp;
