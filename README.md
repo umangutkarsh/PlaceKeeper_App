@@ -25,6 +25,7 @@ In this application, users can create and add new places to their account, and e
 * 🖊️ Edit and delete places
 * 📍 View the places on map
 * ➕ Add new Places to user accounts
+* 📱 Mobile Responsive
 
 
 
