@@ -22,6 +22,12 @@ An app to manage places and their users using the MERN-Stack (MongoDB-database, 
 
 In this application, users can create and add new places to their account, and edit the information, delete the place from the database and view the place on Google maps.
 
+## Contents
+* [Features](https://github.com/umangutkarsh/PlaceKeeper_App/tree/main#features)
+* [Configured Functionalities](https://github.com/umangutkarsh/PlaceKeeper_App/tree/main#configured-functionalities)
+* [Work in Progress](https://github.com/umangutkarsh/PlaceKeeper_App/tree/main#-work-in-progress)
+* [Learn More](https://github.com/umangutkarsh/PlaceKeeper_App/tree/main#learn-more)
+
 
 ### Features
 * 🔒 Authentication (Login, Logout and Register)
@@ -33,7 +39,7 @@ In this application, users can create and add new places to their account, and e
 
 
 
-### Configured functionalities
+### Configured Functionalities
 * Frontend (React.JS)
   * Starting Setup, Pages and Routes
   * Added a UserList Page/Component
@@ -68,7 +74,7 @@ In this application, users can create and add new places to their account, and e
 
 
 
-## 🧑‍🔧 Work in Progress
+### Work in Progress
 * Google Maps API not working correctly, need to fix that
 * Dark Mode
 * Fix minor bugs
@@ -76,7 +82,7 @@ In this application, users can create and add new places to their account, and e
 
 
 
-## Learn More
+### Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
