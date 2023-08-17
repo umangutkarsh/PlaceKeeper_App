@@ -40,7 +40,7 @@ In this application, users can create and add new places to their account, and e
 * ➕ Add new Places to user accounts
 * 📱 Mobile Responsive
 
-
+<br />
 
 ### Configured Functionalities
 * Frontend (React.JS)
@@ -75,7 +75,7 @@ In this application, users can create and add new places to their account, and e
 * Backend (Node.js and Express.js)
   * 
 
-
+<br />
 
 ### Work in Progress
 * Google Maps API not working correctly, need to fix that
@@ -83,7 +83,7 @@ In this application, users can create and add new places to their account, and e
 * Fix minor bugs
 * Host the App on Heroku
 
-
+<br />
 
 ### Learn More
 
