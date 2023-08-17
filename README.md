@@ -34,7 +34,7 @@ In this application, users can create and add new places to their account, and e
 
 
 ### Configured functionalities
-* Frontend
+* Frontend (React.JS)
   * Starting Setup, Pages and Routes
   * Added a UserList Page/Component
   * Added a UserItem Component
@@ -59,7 +59,12 @@ In this application, users can create and add new places to their account, and e
   * Added 'Auth' page and 'Login' form
   * Added Signup + 'Switch-mode button'
   * Added AuthContext for App-Wide state management
-* Backend
+  * Listening to Context-Changes
+  * Adding Authenticated and un-Authenticated routes
+  * AuthContext usage incorporating the LOGOUT functionality
+  * Confirmation modal for LOGOUT handling event.
+* Backend (Node.js and Express.js)
+  * 
 
 
 
