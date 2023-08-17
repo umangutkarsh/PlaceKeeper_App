@@ -33,6 +33,36 @@ In this application, users can create and add new places to their account, and e
 
 
 
+### Configured functionalities
+* Frontend
+  * Starting Setup, Pages and Routes
+  * Added a UserList Page/Component
+  * Added a UserItem Component
+  * Styling app and more Components
+  * Presentatioanl and Stateful components
+  * Added MainHeader and NavLinks
+  * Implemented basic desktop and mobile navigation
+  * Understanding of ReactDOM portals - Handled the Drawer state, Animated the side-drawer
+  * Rendered UserPlaces and used dynamic Route segments
+  * Route Params
+  * Added custom buttons
+  * Added a Modal
+  * Rendered a Map with Google Maps (to be worked upon)
+  * Added custom form-input component, Managed state in the Input component, Added input validation
+  * Shared input values and added multiple inputs
+  * Managed form-wide state
+  * Finished Add-Place form
+  * Worked on UpdatePlace form
+  * Adjusted input-component
+  * Created custom-form hook (useForm)
+  * Worked on Deletion warning
+  * Added 'Auth' page and 'Login' form
+  * Added Signup + 'Switch-mode button'
+  * Added AuthContext for App-Wide state management
+* Backend
+
+
+
 ## 🧑‍🔧 Work in Progress
 * Google Maps API not working correctly, need to fix that
 * Dark Mode
