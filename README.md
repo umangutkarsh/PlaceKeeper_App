@@ -87,7 +87,23 @@ In this application, users can create and add new places to their account, and e
   * Validating API input (Request bodies)
   * Used Google's Geocoding API (to be worked upon)
 
+* Database (MongoDB and Mongoose)
+  * Connecting backend to mongoDB
+  * Creating the place schema and model
+  * Creating and storing documents in the database
+  * GET places by placeID
+  * Update and Delete places
+  * Users and Places relation establishment
+  * Creating user model
+  * Using the User model for signup
+  * Adding the User login
+  * Getting users
+  * Adding relation between places and users
+  * Create places and add it to the users.
+  * Deleting places and removing it from the User
+ 
 <br />
+
 
 ### Work in Progress
 * Google Maps API not working correctly, need to fix that
@@ -96,6 +112,7 @@ In this application, users can create and add new places to their account, and e
 * Host the App on Heroku
 
 <br />
+
 
 ### Learn More
 
