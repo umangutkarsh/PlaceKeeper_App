@@ -11,7 +11,9 @@
 
 
 ## Overview
-An app to manage places and their users using the MERN-Stack (MongoDB-database, ExpressJS-server, ReactJS-client, NodeJS-backend)
+An app to manage places and their users using the MERN-Stack (MongoDB-database, ExpressJS-server, ReactJS-client, NodeJS-backend). Also 'Mongoose' is used to create data models.
+
+[![Mongoose Badge](https://img.shields.io/badge/Mongoose-800?logo=mongoose&logoColor=fff&style=for-the-badge)](https://mongoosejs.com/)
 <br>
 
 ![placeKeeper](https://github.com/umangutkarsh/PlaceKeeper_App/assets/95426993/7ba6a9b5-2848-4f4d-bd53-22cf110d9bb4)
