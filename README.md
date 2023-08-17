@@ -104,3 +104,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn how to setup a local MongoDB instance for testing, check out how to [Connect to MongoDB](https://docs.mongodb.com/guides/server/drivers/).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+<br />
+
+### The main take-away of this project is that every component (form buttons, inputs, to custom error handlers) is custom made and not pre-defined.
