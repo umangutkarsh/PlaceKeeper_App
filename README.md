@@ -99,7 +99,7 @@ In this application, users can create and add new places to their account, and e
   * Adding the User login
   * Getting users
   * Adding relation between places and users
-  * Create places and add it to the users.
+  * Create places and add it to the users - Transactions and Sessions
   * Deleting places and removing it from the User
  
 <br />
