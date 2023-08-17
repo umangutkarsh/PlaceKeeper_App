@@ -25,7 +25,7 @@ In this application, users can create and add new places to their account, and e
 ## Contents
 * [Features](https://github.com/umangutkarsh/PlaceKeeper_App/tree/main#features)
 * [Configured Functionalities](https://github.com/umangutkarsh/PlaceKeeper_App/tree/main#configured-functionalities)
-* [Work in Progress](https://github.com/umangutkarsh/PlaceKeeper_App/tree/main#-work-in-progress)
+* [Work in Progress](https://github.com/umangutkarsh/PlaceKeeper_App/tree/main#work-in-progress)
 * [Learn More](https://github.com/umangutkarsh/PlaceKeeper_App/tree/main#learn-more)
 
 <br />
