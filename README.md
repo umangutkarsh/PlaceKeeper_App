@@ -72,8 +72,20 @@ In this application, users can create and add new places to their account, and e
   * Adding Authenticated and un-Authenticated routes
   * AuthContext usage incorporating the LOGOUT functionality
   * Confirmation modal for LOGOUT handling event.
+
 * Backend (Node.js and Express.js)
-  * 
+  * Implemented basic routing
+  * Added place-specific routes
+  * GET a place by user ID
+  * Error handling, adding own Error Modal
+  * Added controllers
+  * Added POST route and using POSTMAN
+  * Error handling for unsupported routes
+  * Added patch routes to update places
+  * DELETE places
+  * Setup user routes (Signup, Login, Get users)
+  * Validating API input (Request bodies)
+  * Used Google's Geocoding API (to be worked upon)
 
 <br />
 
