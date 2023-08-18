@@ -102,6 +102,19 @@ In this application, users can create and add new places to their account, and e
   * Create places and add it to the users - Transactions and Sessions
   * Deleting places and removing it from the User
  
+* Connecting Frontend to Backend:
+  * Sending POST Request to the backend - fetch() api is used
+  * Handled CORS (Cross-origin resource sharing) errors.
+  * Worked on Error handling
+  * Sending Login Request
+  * Getting users with GET request
+  * Created custon Http hook
+  * Using Http hook to GET users
+  * Adding places using the POST request
+  * Loading places by user ID
+  * Update and Delete Places
+  * Worked on Authorization
+ 
 <br />
 
 
