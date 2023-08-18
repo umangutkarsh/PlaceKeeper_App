@@ -158,4 +158,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 <br />
 
-### The main take-away of this project is that every component (form buttons, inputs, to custom error handlers, and custom hooks) is custom made and not pre-defined.
+The main take-away of this project is that every component (form buttons, inputs, to custom error handlers, and custom hooks) is custom made and not pre-defined.
