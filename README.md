@@ -114,7 +114,28 @@ In this application, users can create and add new places to their account, and e
   * Loading places by user ID
   * Update and Delete Places
   * Worked on Authorization
- 
+
+* File Upload
+  * Built ImageUpload component
+  * Used multer to save files
+  * Filtering files on the backend
+  * Wiring frontend and backend
+  * Connected users to images
+  * Served Images statically
+  * Uploaded images for New Places
+  * Delete images when places get deleted
+
+* Authentication
+  * Hashing the user password
+  * Logging users in with the Hashed passoword
+  * Generated tokens (JWT) on the backend
+  * Backend Route protection with Auth middleware
+  * Used and attached JWT, and used them to update and delete places
+  * Added authorization, and authorization on Delete places
+  * Stored the token in the browser storage
+  * Added Auto-Login
+  * Managing the token-expiration date
+
 <br />
 
 
